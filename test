@@ -1,0 +1,1 @@
+curl -v -u justin.edwards@shield-it.com.au:Austral1@ -H "Content-Type: application/json" -X GET 'https://shieldit.freshdesk.com/api/v2/tickets/'
